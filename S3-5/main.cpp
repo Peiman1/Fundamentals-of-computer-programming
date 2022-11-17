@@ -4,12 +4,8 @@ void volume( int, int, int);
 void surface( int, int, int);
 int main() {
 int a,b,c;
-      cout<<"\nEnter the a : ";
-      cin>>a;
-      cout<<"\nEnter the b : ";
-      cin>>b;
-      cout<<"\nEnter the c : ";
-      cin>>c;
+      cout<<"\nEnter the box size : ";
+      cin>>a>>b>>c;
       volume(a,b,c);
       surface(a,b,c);
     return 0;
