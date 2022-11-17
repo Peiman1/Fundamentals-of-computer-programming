@@ -1,0 +1,3 @@
+C:/Users/USER/CLionProjects/S3-7/cmake-build-debug/CMakeFiles/S3_7.dir
+C:/Users/USER/CLionProjects/S3-7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/CLionProjects/S3-7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
